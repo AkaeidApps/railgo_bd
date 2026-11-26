@@ -1,0 +1,36 @@
+class AppRoutes {
+  static const splash = '/splash';
+  static const onboarding = '/onboarding';
+  static const login = '/login';
+  static const register = '/register';
+  static const forgotPassword = '/forgot-password';
+  static const otpVerification = '/otp-verification';
+  static const profileSetup = '/profile-setup';
+  static const mainNav = '/main';
+  static const home = '/home';
+  static const trainSearch = '/train-search';
+  static const searchResults = '/search-results';
+  static const trainDetails = '/train-details';
+  static const routeTimeline = '/route-timeline';
+  static const stationDirectory = '/station-directory';
+  static const stationDetails = '/station-details';
+  static const trainSchedule = '/train-schedule';
+  static const fareDetails = '/fare-details';
+  static const journeyDateSelection = '/journey-date-selection';
+  static const passengerSelection = '/passenger-selection';
+  static const classSelection = '/class-selection';
+  static const seatSelection = '/seat-selection';
+  static const passengerInfo = '/passenger-info';
+  static const bookingReview = '/booking-review';
+  static const payment = '/payment';
+  static const bookingStatus = '/booking-status';
+  static const eticket = '/eticket';
+  static const myTickets = '/my-tickets';
+  static const ticketDetails = '/ticket-details';
+  static const profile = '/profile';
+  static const notifications = '/notifications';
+  static const settings = '/settings';
+  static const helpSupport = '/help-support';
+  static const faq = '/faq';
+  static const about = '/about';
+}
