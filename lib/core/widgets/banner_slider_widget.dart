@@ -32,7 +32,71 @@ class _BannerSliderWidgetState extends State<BannerSliderWidget> {
       'title': 'Instant E-Ticketing & PNR',
       'subtitle': 'Interactive Seat Selection & QR Verification',
       'tag': 'Smart Transit',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0fWqUPmRJYXcsajNqxAQvb_H6ylD1BtZWw1je5WDrw&s=10',
+    },
+    {
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYjFYTdvtvZHVtOV36mI642AfXH6a-mjS9XxdswQEtxDEOVH6StKa4as&s=10',
+    },
+    {
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
       'image': 'https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80',
+    },
+    {
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0fWqUPmRJYXcsajNqxAQvb_H6ylD1BtZWw1je5WDrw&s=10',
+    },
+    {
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0fWqUPmRJYXcsajNqxAQvb_H6ylD1BtZWw1je5WDrw&s=10',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRl2Rnk6HVrrbO1Au3dommzvdj9BWiOkD69pqMSPo3tg&s=10',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://ecdn.dhakatribune.net/contents/cache/images/1200x630x1xxxxx1x694528/uploads/dten/2019/06/web-eid-train-2-zakir-1559570760357.jpg?watermark=media%2F2023%2F05%2F28%2F1280px-Dhaka_Tribune_Logo.svg-1-a9e61c86dded62d74300fef48fee558f.png',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1200&q=80',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://ecdn.dhakatribune.net/contents/cache/images/1200x630x1xxxxx1x694528/uploads/dten/2019/06/web-eid-train-2-zakir-1559570760357.jpg?watermark=media%2F2023%2F05%2F28%2F1280px-Dhaka_Tribune_Logo.svg-1-a9e61c86dded62d74300fef48fee558f.png',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRiMxhH5Jy1B4U7cQ1itOwGa0dqEZGNQoh2umw1CubA&s=10',
+    },{
+      'title': 'Instant E-Ticketing & PNR',
+      'subtitle': 'Interactive Seat Selection & QR Verification',
+      'tag': 'Smart Transit',
+      'image': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZqh486uS_eNWHLy6V8R3wnzVyLf1jP5oh8X9TAwdElg&s=10',
     },
   ];
 
